@@ -5,4 +5,4 @@ function camelize(str) {
 	.join('');
 }
 
-console.log(camelize('big-dick'));
+
